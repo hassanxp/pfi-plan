@@ -1,0 +1,28 @@
+Task,Start,Finish,Complete,Category,Description, Loomis, Chi-Hung, Chih-Yi, Karr, Shiang-Yu, Richard, Gracia, Max, Martin, Satoshi, Yuki
+2D target convergence,2020-10-01,2020-12-01,0, CobraOperation, "Implement software for 2D target convergence", 0, 0, 30, 0, 0, 0, 0, 0, 0, 0, 0
+Revised software architecture,2020-10-01,2020-12-01,0, CobraOperation, "Revise and implement new architecture", 15, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0
+Spot-to-spot fiber identification,2020-10-01,2020-12-01,0, CobraOperation, "Associate observed MCS spot with fiber", 0, 0, 0, 30, 0, 0, 0, 0, 0, 0, 0
+Collision avoidance,2020-10-01,2020-12-01,0, CobraOperation, "Implement collision avoidance, taking to account radial motion, timing shift etc", 0, 10, 10, 0, 0, 0, 10, 0, 0, 0, 0
+Additional Cobra movement optimization,2020-10-01,2020-12-01,0, CobraOperation, "Implement cobra movement optimizations, taking into account on-time etc.", 0, 10, 10, 0, 0, 0, 0, 0, 0, 0, 0
+Cobra convergence data analysis,2020-10-01,2020-12-01,0, CobraDataAnalysis, "Analyse cobra convergence data", 0, 10, 10, 10, 10, 0, 0, 0, 0, 0, 0
+Cobra geometry data analysis,2020-10-01,2020-12-01,0, CobraDataAnalysis, "Analyse cobra geometry data", 0, 10, 10, 0, 10, 0, 0, 0, 0, 0, 0
+Home position data and distortion study,2020-10-01,2020-12-01,0, CobraDataAnalysis, "Analyse variation in home position and distortion map", 0, 0, 0, 0, 10, 10, 0, 0, 0, 0, 0
+Fiber allocation and observation planning software,2020-10-01,2020-12-01,0, FiberConfiguration, "Implement fiber allocation and observation planning software", 0, 0, 0, 0, 0, 0, 0, 10, 10, 0, 0
+Coordinate transformation,2020-10-01,2020-12-01,0, FiberConfiguration, "Implement coordinate transformation code", 0, 10, 0, 0, 0, 0, 0, 0, 0, 10, 10
+Cobra configuration,2020-10-01,2020-12-01,0, FiberConfiguration, "Configure cobras", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+Visualization,2020-10-01,2020-12-01,0, FiberConfiguration, "Visualize fiber configuration", 0, 0, 0, 0, 0, 0, 0, 10, 10, 0, 0
+Engineering observations,2021-06-01,2023-01-30,0,Project,,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+Call for SSP,2022-04-01,2022-05-01,0,Project,,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+End of SSP Proposal Review,2022-10-01,2022-10-02, 0,Project,,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+Readiness review of inst for science,2022-08-01,2022-09-01,0,Project,,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+Science Operations,2023-02-01,2025-01-01,0,Project,,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+First cable B@Subaru,2020-12-01,2020-12-31,0,Hardware,,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+SM1(B+R)@Subaru,2019-12-01,2020-06-02,0,Hardware,,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+NCU1@LAM,2021-03-31,2021-06-01,0,Hardware,,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+SM2(B+R)@LAM,2020-05-01,2020-11-01,0,Hardware,,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+SM2(B+R)@Subaru,2020-11-01,2025-01-01,0,Hardware,,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+SM3(B+R+N)@LAM,2021-04-01,2021-06-01,0,Hardware,,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+SM3(B+R+N)@Subaru,2021-06-01,2025-01-01,0,Hardware,,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+SM4(B+R)@LAM,2021-06-01,2021-08-01,0,Hardware,,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+SM4(B+R)@Subaru,2021-08-01,2025-01-01,0,Hardware,,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+PFI@Subaru,2021-01-01,2025-01-01,0,Hardware,,0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
