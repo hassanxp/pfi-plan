@@ -10,19 +10,19 @@ import random
 import plotly.graph_objects as go
 
 
-# In[2]:
+# In[13]:
 
 
 catColors = dict(Project='rgb(255, 51, 0)', 
                  Hardware='rgb(230, 230, 0)', 
-                 Sky='rgb(51, 153, 255)', 
-                 PSF='rgb(102, 0, 255)', 
-                 WavelengthCal='rgb(153, 102, 255)', 
+                 CobraOperation='rgb(51, 153, 255)', 
+                 CobraDataAnalysis='rgb(102, 0, 255)', 
+                 FiberConfiguration='rgb(153, 102, 255)', 
                  Calibration='rgb(204, 51, 255)',
                  Infra='rgb(153, 0, 153)')
 
 
-# In[3]:
+# In[14]:
 
 
 def plt_line(df, fig, mls_yr, mls_text, color="gray"):
@@ -41,7 +41,7 @@ def plt_line(df, fig, mls_yr, mls_text, color="gray"):
     )
 
 
-# In[4]:
+# In[15]:
 
 
 def plot_plan(plan_file):
@@ -79,7 +79,7 @@ def plot_plan(plan_file):
     fig.show(renderer='browser')
 
 
-# In[7]:
+# In[17]:
 
 
 plot_plan('pfi-plan.csv')
